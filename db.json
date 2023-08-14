@@ -1,0 +1,170 @@
+{
+  "enquiry": [
+    {
+      "firstName": "xyz",
+      "lastName": "abc",
+      "email": "mikd!@emdl",
+      "mobile": "846525689",
+      "weight": 96,
+      "height": 1.65,
+      "bmi": 35.26170798898072,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Quarterly",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-18T18:30:00.000Z",
+      "important": [
+        "Toxic Fat Reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "id": 4
+    },
+    {
+      "firstName": "andy",
+      "lastName": "muischetti",
+      "email": "andy@flash.com",
+      "mobile": "123456789",
+      "weight": 60,
+      "height": 1.6,
+      "bmi": 23.437499999999996,
+      "bmiResult": "Normal Weight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-08-25T18:30:00.000Z",
+      "important": [
+        "Energy and Endurance",
+        "Building Muscles",
+        "Strength Building"
+      ],
+      "id": 6
+    },
+    {
+      "firstName": "andyaw",
+      "lastName": "axs",
+      "email": "asbjxw",
+      "mobile": "43212",
+      "weight": 21,
+      "height": 12,
+      "bmi": 0.14583333333333334,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-24T18:30:00.000Z",
+      "important": [
+        "Toxic Fat Reduction"
+      ],
+      "id": 7
+    },
+    {
+      "firstName": "Amey",
+      "lastName": "Swami",
+      "email": "amey@test.com",
+      "mobile": "8421027958",
+      "weight": 90,
+      "height": 1.6,
+      "bmi": 35.15624999999999,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-08-24T18:30:00.000Z",
+      "important": [
+        "Toxic Fat Reduction",
+        "Building Muscles",
+        "Strength Building"
+      ],
+      "id": 8
+    },
+    {
+      "firstName": "amy",
+      "lastName": "addams",
+      "email": "amy@kathy.com",
+      "mobile": "8921982101",
+      "weight": 50,
+      "height": 1.6,
+      "bmi": 19.531249999999996,
+      "bmiResult": "Normal Weight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-17T18:30:00.000Z",
+      "important": [
+        "Energy and Endurance",
+        "Building Muscles",
+        "Strength Building"
+      ],
+      "id": 12
+    },
+    {
+      "firstName": "Amey",
+      "lastName": "Swami",
+      "email": "amey@test2.com",
+      "mobile": "79/8465132",
+      "weight": 45,
+      "height": 2,
+      "bmi": 11.25,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-13T18:30:00.000Z",
+      "important": [
+        "Toxic Fat Reduction",
+        "Energy and Endurance",
+        "Building Muscles"
+      ],
+      "id": 13
+    },
+    {
+      "firstName": "Ameya",
+      "lastName": "Swami",
+      "email": "amey@gmail.com",
+      "mobile": "8421027958",
+      "weight": 55,
+      "height": 2,
+      "bmi": 13.75,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-08-15T18:30:00.000Z",
+      "important": [
+        "Toxic Fat Reduction",
+        "Energy and Endurance",
+        "Fitness and Stamina"
+      ],
+      "id": 14
+    },
+    {
+      "firstName": "Top",
+      "lastName": "G",
+      "email": "topG@tate.com",
+      "mobile": 696966969,
+      "weight": 70,
+      "height": 1.7,
+      "bmi": 24.221453287197235,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-18T18:30:00.000Z",
+      "id": 15
+    }
+  ]
+}
